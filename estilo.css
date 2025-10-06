@@ -1,0 +1,31 @@
+/* @import url('variable.css'); */
+/* #principal{
+    background-image: url(/img/fundo.png);
+    background-color: aqua;
+} */
+ body{
+    /* background-image: url(/img/fundo.png); */
+    background: #d2d2c1 url(/img/fundo.png);
+    font:  16px Arial, Helvetica, sans-serif;
+ }
+ .container{
+   width: 900px;
+   margin: 0% auto;
+ }
+ li{
+    color: blue;
+    font: weight 300px;
+    display: inline;
+    /* font-family: 'Courier New', Courier, monospace; */
+ }
+ .conteudo{
+    background-color: lemonchiffon;
+    width: 900px;
+ }
+ .footer{
+    text-align: center;
+ }
+#anna{
+    color: burlywood;
+}
+ 
